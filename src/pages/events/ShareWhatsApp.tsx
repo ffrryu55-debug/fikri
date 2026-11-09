@@ -14,7 +14,7 @@ const MESSAGE_TEMPLATES = [
   {
     id: 'formal',
     name: 'Formal',
-    template: 'Salam Sejahtera\n\nYth. Bapak/Ibu/Saudara/i\n{name}\n\nDi Tempat\n\nDengan segala kerendahan hati, kami mengundang Bapak/Ibu/Saudara/i dan teman-teman untuk menghadiri acara pernikahan kami,\n\nUndangan dapat diakses melalui link berikut.\n{link}\n\nMerupakan suatu kebahagiaan bagi kami apabila Bapak/Ibu/Saudara/i dan teman-teman berkenan untuk hadir dan memberikan doa restu.\n\nAtas perhatian, kehadiran dan doanya, kami ucapkan banyak terima kasih.',
+    template: 'Assalamualaikum Wr. Wb.\n\nYth. Bapak/Ibu/Saudara/i\n{name}\n\nDi Tempat\n\nDengan segala kerendahan hati, kami mengundang Bapak/Ibu/Saudara/i dan teman-teman untuk menghadiri acara pernikahan kami,\n\nUndangan dapat diakses melalui link berikut.\n{link}\n\nMerupakan suatu kebahagiaan bagi kami apabila Bapak/Ibu/Saudara/i dan teman-teman berkenan untuk hadir dan memberikan doa restu.\n\nAtas perhatian, kehadiran dan doanya, kami ucapkan banyak terima kasih.',
   },
   {
     id: 'casual',
